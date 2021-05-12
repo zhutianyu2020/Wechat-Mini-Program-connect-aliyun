@@ -1,0 +1,7 @@
+{
+  "usingComponents": {},
+  "navigationBarTitleText": "添加设备",
+  "navigationBarTitlestyle": "#000033",
+  "navigationBarBackgroundColor": "#000000",
+  "enablePullDownRefresh": true
+}

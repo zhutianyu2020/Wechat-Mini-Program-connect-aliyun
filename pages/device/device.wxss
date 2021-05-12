@@ -1,0 +1,11 @@
+.word{
+  margin-left: 30rpx;
+
+  height:100rpx;
+}
+.device-container{
+  margin-bottom: 100rpx;
+}
+.head{
+  margin-bottom:50rpx ;
+}

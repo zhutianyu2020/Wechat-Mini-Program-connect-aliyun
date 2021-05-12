@@ -1,0 +1,42 @@
+
+  <view class="head">
+      <text>设备信息：</text>
+  </view>
+  <view class="device-container">
+    <view class="word">
+      <text>设备id：</text>
+      <text>{{type}}</text>
+    </view>
+
+    <view class="word">
+      <text>设备启动日期：{{date}}</text>
+    </view>
+
+    <view class="word">
+      <text>设备运行时长：</text>
+      <text>{{time}}</text>
+    </view>
+  </view>
+
+
+  <view class="environment-container">
+    <view class="head">
+      <text>环境信息：</text>
+    </view>
+
+    <view class="word">
+      <text>当前温度：</text>
+      <text>{{temperature}}</text>
+    </view>
+
+    <view class="word">
+      <text>土壤湿度：</text>
+      <text>{{humidity}}</text>
+    </view>
+
+    <view class="word">
+      <text>土壤酸碱度：</text>
+      <text>{{PH}}</text>
+    </view>
+
+  </view>

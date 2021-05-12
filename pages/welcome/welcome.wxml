@@ -1,0 +1,9 @@
+<view class="container">
+  <image class="logo" src="http://m.qpic.cn/psc?/V515ct7Z2SHFVB1kBtPj2MOf1a3zhQLR/ruAMsa53pVQWN7FLK88i5nVVPO7S3j8cO2uqxyLcXRHZRDz*zfdsbI1M1ZAAa.pUFA*r7pflNT188DKzBPPAzQxranM8pEvkfDf5aDa4xLc!/mnull&bo=DAEMAQwBDAEDCSw!&rf=photolist&t=5"></image>
+  <text class="headline">湿地环境监测候鸟保护系统</text>
+  <view class="journey-container">
+   <navigator open-type="switchTab" url="/pages/homepage/homepage">
+    <text class="journey">开启小程序之旅</text>
+   </navigator> 
+  </view>
+</view>

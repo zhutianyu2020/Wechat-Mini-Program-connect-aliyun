@@ -1,0 +1,14 @@
+<view catchtap="onTapJump" class="car-container">
+  <text  class="monitoring-car" decode="{{true}}" space="{{true}}" >&nbsp;监测车1号&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</text>
+  <text class="monitoring-car" decode="{{true}}" space="{{true}}">设备状态&nbsp;:&nbsp;</text>
+  <text style="color:{{statuscolor}}">{{status}}</text>
+  <text  class="monitoring-car" decode="{{true}}" space="{{true}}" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</text>
+  <text  class="iconfont icon-tiaozhuan-copy" ></text>
+</view>
+
+<view catchtap="onTapJumpdevice" class="add-device-container">
+ <view class="add-device">
+  <text class="iconfont icon-tianjia"></text>
+  <text>添加设备</text>
+ </view>
+</view>
